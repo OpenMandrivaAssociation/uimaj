@@ -14,7 +14,7 @@ BuildRequires: mvn(axis:axis)
 BuildRequires: mvn(axis:axis-jaxrpc)
 BuildRequires: mvn(commons-io:commons-io)
 BuildRequires: mvn(junit:junit)
-BuildRequires: mvn(log4j:log4j:1.2.17)
+BuildRequires: mvn(log4j:log4j)
 BuildRequires: mvn(org.apache.commons:commons-logging)
 # maven plugins
 BuildRequires: mvn(org.apache.maven:maven-core)
