@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          uimaj
 Version:       2.5.0
 Release:       3%{?dist}
