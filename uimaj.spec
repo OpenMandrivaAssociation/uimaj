@@ -4,7 +4,7 @@ Version:       2.5.0
 Release:       3%{?dist}
 Summary:       Apache UIMA is an implementation of the OASIS-UIMA specifications
 License:       ASL 2.0
-URL:           http://uima.apache.org/
+URL:           https://uima.apache.org/
 Source0:       http://www.apache.org/dist/uima/%{name}-%{version}/%{name}-%{version}-source-release.zip
 
 BuildRequires: java-devel
